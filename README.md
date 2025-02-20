@@ -1,4 +1,4 @@
-# CI-CD-Learning
+# CI/CD # Learning
 .
 
 📍 Week 1: Introduction to CI/CD & Git Basics
